@@ -10,12 +10,12 @@ export default function About() {
         <div className="space-y-7 text-zinc-400 leading-relaxed text-sm sm:text-base">
           <p>
             Akış Digital, lojistik sektörüne özel yapay zeka ve yazılım otomasyon çözümleri
-            geliştiren bir teknoloji şirketidir. Freight forwarding firmalarının karmaşık
+            geliştiren bir teknoloji şirketidir. Lojistik ve taşımacılık firmalarının karmaşık
             operasyonel süreçlerini analiz ederek, verimliliği artıran akıllı sistemler
             tasarlıyor ve hayata geçiriyoruz.
           </p>
           <p>
-            Türk freight forwarding firmalarının yıllarca sürdürdüğü manuel iş süreçlerini —
+            Türk lojistik ve taşımacılık firmalarının yıllarca sürdürdüğü manuel iş süreçlerini —
             müşteri yazışmaları, belge işleme, veri girişi ve raporlama — akıllı otomasyon
             sistemlerine dönüştürüyoruz. Ekibinizin rutine harcadığı zamanı stratejik kararlara
             yönlendirmesini sağlıyoruz.

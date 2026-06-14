@@ -34,8 +34,8 @@ export default function Hero() {
         </h1>
 
         <p className="text-base sm:text-lg text-zinc-400 max-w-2xl mx-auto mb-10 leading-relaxed fade-in fade-in-delay-2">
-          Akış Digital, Türk freight forwarding firmalarına workflow otomasyonu ve akıllı veri
-          işleme çözümleri sunar. Manuel iş yükünü azaltın, operasyonel verimliliği artırın.
+          Akış Digital, Türk lojistik ve taşımacılık firmalarına workflow otomasyonu ve akıllı
+          veri işleme çözümleri sunar. Manuel iş yükünü azaltın, operasyonel verimliliği artırın.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-3 justify-center fade-in fade-in-delay-3">
